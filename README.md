@@ -1,4 +1,4 @@
-<img width="1440" height="832" alt="Captura de Tela 2026-05-08 às 13 38 28" src="https://github.com/user-attachments/assets/fd41befd-8782-4abf-8c9b-3eee078d4598" /># MentorAI — Plataforma de Aprendizagem Adaptativa com IA Groq
+# MentorAI — Plataforma de Aprendizagem Adaptativa com IA Groq
 
 > Situação de Aprendizagem — Curso Técnico em Desenvolvimento de Sistemas
 > Unidade Curricular: **Desenvolvimento de Sistemas (25h)**
@@ -194,7 +194,7 @@ A forma mais simples é pelo **Swagger** (`http://localhost:3000/docs`):
 2. Clique em **Authorize** no topo da página e cole `Bearer <token>` (o Swagger UI já adiciona o `Bearer` automaticamente — basta colar o token).
 3. Execute as outras rotas.
 
-![Uploading Captura de Tela 2026-05-08 às 13.38.28.png…]()
+<img width="1440" height="832" alt="Captura de Tela 2026-05-08 às 13 38 28" src="https://github.com/user-attachments/assets/fd41befd-8782-4abf-8c9b-3eee078d4598" />
 
 Abaixo, fluxos completos via **cURL** para os dois perfis.
 
